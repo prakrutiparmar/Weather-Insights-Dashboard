@@ -38,7 +38,12 @@ This project demonstrates **advanced Power BI**, **DAX**, and **API integration*
 ## 📷 Dashboard Preview
 
 ![Weather Dashboard – City Overview](images/dashboard1.png)
+
+---
 ![Weather Dashboard – AQI Analysis](images/dashboard2.png)
+
+---
+![Weather Dashboard – AQI Analysis](images/dashboard3.png)
 
 
 ---
