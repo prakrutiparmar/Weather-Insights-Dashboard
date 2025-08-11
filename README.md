@@ -34,6 +34,14 @@ This project demonstrates **advanced Power BI**, **DAX**, and **API integration*
 - **Custom Visuals (AppSource)** – advanced charts, gauge meters  
 
 ---
+## Data Source
+
+This project uses weather data provided by [WeatherAPI](https://www.weatherapi.com/).
+
+> **Note:** WeatherAPI offers real-time, forecast, and historical weather data through their API services.  
+> Make sure to create an account and obtain an API key from their website if you wish to run this project locally.
+
+----
 
 ## 📷 Dashboard Preview
 
